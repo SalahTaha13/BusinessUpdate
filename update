@@ -2,7 +2,7 @@
  "records": [ 
   {
    "version": "STBusiness V2.0",
-   "code": 2,
+   "code": 3,
    "url": "https://www.rcwaios.com/", 
    "changelog": "[Fixed] Tab\n[Changed] Style Settings\n[Added] FloatingOption \n[Added] encrypt and decrypt text \nMore features and improvements"
   } 
